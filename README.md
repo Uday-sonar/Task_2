@@ -59,7 +59,7 @@ The top section displays high-level cards for quick reference:
 ```plaintext
 superstore-sales-powerbi/
 │
-├── Super_Store_Raw_Data.csv    # Raw transactional data
-├── Sales_Performance.pbix      # Power BI project file
+├── SuperStore_Sales_Dataset.csv    # Raw transactional data
+├── Superstore_Sales_Dashboard.pbix      # Power BI project file
 ├── Documentation/              # Metadata and DAX measures
 └── README.md                   # Project Overview
